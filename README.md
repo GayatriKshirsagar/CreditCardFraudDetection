@@ -48,10 +48,10 @@ To perform an in-depth exploratory data analysis on a real-world credit card tra
 - seaborn
 
 ## 💡 Skills Demonstrated
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Data Visualization
-Handling Imbalanced Datasets
-Feature Analysis
-Python Programming
-Jupyter Notebook Proficiency 
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Handling Imbalanced Datasets
+- Feature Analysis
+- Python Programming
+- Jupyter Notebook Proficiency 
