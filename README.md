@@ -20,25 +20,17 @@ To perform an in-depth exploratory data analysis on a real-world credit card tra
 
 ### 1. Class Distribution
 
-![Class Distribution](images/class_distribution.png)
-
 *Illustrates the imbalance between fraudulent and non-fraudulent transactions.*
 
 ### 2. Transaction Amount by Class
-
-![Amount Distribution](images/amount_distribution.png)
 
 *Shows the distribution of transaction amounts for both classes.*
 
 ### 3. Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
-
 *Displays the correlation between different features in the dataset.*
 
 ### 4. Feature Distributions
-
-![Feature Distributions](images/feature_distributions.png)
 
 *Compares the distributions of selected features across both classes.*
 
